@@ -32,7 +32,7 @@ jobs:
       - uses: browser-actions/setup-chrome@latest
       - uses: 'anuraghazra/peerlist-profile-action@main'
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.SUMMARY_CARD_TOKEN }}
           username: ${{github.event.inputs.username}}
           theme_name: ${{github.event.inputs.theme_name}}
           card_size: ${{github.event.inputs.card_size}}
