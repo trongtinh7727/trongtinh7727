@@ -39,8 +39,8 @@ I'm a student at Ton Duc Thang university
 #### Top Repositories
 
 
-<a href="https://github.com/trongtinh7727/elearning-ability-tool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trongtinh7727&repo=elearning-ability-tool&theme=buefy" />
+<a href="https://github.com/trongtinh7727/IIEXCinema">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trongtinh7727&repo=IIEXCinema&theme=buefy" />
 </a>
 <a href="https://github.com/trongtinh7727/Java-OOP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trongtinh7727&repo=Java-OOP&theme=buefy" />
