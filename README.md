@@ -1,52 +1,60 @@
-<p align="center"><a href="https://github.com/trongtinh7727"><img width="30%" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">
+  <a href="https://github.com/trongtinh7727">
+    <img width="50%" src="./assets/flutter-dev-header.png" alt="Flutter Developer"/>
+  </a>
+</p>
+
+---
+
+### 👋 Hi, I'm Trọng Tình!
+
+I'm a passionate **Flutter Developer** with over **2 years of experience**, specializing in building intuitive, elegant, and scalable mobile applications. Currently, I'm dedicated to crafting seamless user experiences at **OMEGA. ERP**.
+
+---
+
+### 🚀 My Expertise:
+
+* **Mobile App Development:** Specializing in Flutter, I build cross-platform applications that enhance user interaction and streamline business operations.
+* **State Management:** Proficient in Provider, Riverpod, GetIt, and efficient navigation handling with GoRouter.
+* **Performance Optimization:** Experienced in improving app responsiveness and performance.
+
+---
+
+### 📌 Key Projects:
+
+* **OMEGA.HRM:** A comprehensive HR management solution for payroll, leave management, and analytics.
+
+  * **Tech Stack:** Flutter, Riverpod, GoRouter, Firebase (FCM, Remote Config).
+  * **Achievements:** Architected core features, API integration, performance optimization.
+
+* **OMEGA.SOR:** Real-time sales coordination app for efficient tracking and management.
+
+  * **Tech Stack:** Flutter, Provider.
+  * **Achievements:** Feature development, enhanced UI/UX, consistent maintenance and updates.
+
+---
+
+### 🛠️ Technologies & Tools:
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/ios/ios.png"></code>
+
+---
+
+### 📫 Connect With Me:
+
+[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/main/assets/facebook-circular-logo.png" />](https://www.facebook.com/trongtinh7727)
+[<img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/main/assets/gmail.png" />](mailto:trongtinh7727@gmail.com)
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/main/assets/instagram.png">](https://www.instagram.com/trongtinh7727/)
+[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/main/assets/discord-round.svg">](https://www.discordapp.com/users/861617197410549760)
 
 <br />
 
-I'm a student at Ton Duc Thang university
+---
 
-**About me**
+### 📈 GitHub Stats:
 
-- 💼 Study at Ton Duc Thang University
-- ❤️ I love writing java, and building fun experiments on type-level, try something news
-- 💬 Ask me about anything [here](https://github.com/trongtinh7727/trongtinh7727/issues)
+![Trọng Tình's GitHub stats](https://github-readme-stats.vercel.app/api?username=trongtinh7727\&show_icons=true\&theme=dracula\&hide_border=true)
 
-<a href="https://www.facebook.com/trongtinh7727">
-  <img align="right" alt="Trọng Tình | Facebook" width="21px" src="https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/main/assets/facebook-circular-logo.png" />
-</a>
-<a href="mailto:trongtinh7727@gmail.com">
-  <img align="right" alt="Trọng Tình | Gmail" width="20px" src="https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/main/assets/gmail.png" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trongtinh7727\&layout=compact\&theme=dracula\&hide_border=true)
 
-<a href="https://www.instagram.com/trongtinh7727/">
-  <img align="right" alt="trongtinh7727 | Discord" width="20px" src="https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/main/assets/instagram.png">
-</a>
-<a href="https://www.discordapp.com/users/861617197410549760">
-  <img align="right" alt="trongtinh7727 | Discord" width="20px" src="https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/17960bbd41ed223cefc81172d5d517747ec348b9/assets/discord-round.svg">
-</a>
-
-<code><img height="20" src="https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/af0415fc3d72a997bc786ff7f0d2cbd1f7404cac/assets/java.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/af0415fc3d72a997bc786ff7f0d2cbd1f7404cac/assets/c.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/af0415fc3d72a997bc786ff7f0d2cbd1f7404cac/assets/html.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/af0415fc3d72a997bc786ff7f0d2cbd1f7404cac/assets/php.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/af0415fc3d72a997bc786ff7f0d2cbd1f7404cac/assets/python.svg"></code>    
-
-
-![](https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/main/profile-summary-card-output/github/0-profile-details.svg)
-![](https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/main/profile-summary-card-output/github/1-repos-per-language.svg) | <a href="https://github.com/trongtinh7727"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongtinh7727&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-|![](https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/main/profile-summary-card-output/github/3-stats.svg)|![](https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/main/profile-summary-card-output/github/4-productive-time.svg)
-
-#### Top Repositories
-
-
-<a href="https://github.com/trongtinh7727/IIEXCinema">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trongtinh7727&repo=IIEXCinema&theme=buefy" />
-</a>
-<a href="https://github.com/trongtinh7727/Java-OOP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trongtinh7727&repo=Java-OOP&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-
+---
