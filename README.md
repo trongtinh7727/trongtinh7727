@@ -53,7 +53,7 @@ I'm a passionate **Flutter Developer** with over **2 years of experience**, spec
 
 ### 📈 GitHub Stats:
 
-![Trọng Tình's GitHub stats](https://github-readme-stats.vercel.app/api?username=trongtinh7727\&show_icons=true\&theme=dracula\&hide_border=true)
+![Trọng Tình's GitHub stats](https://raw.githubusercontent.com/trongtinh7727/trongtinh7727/main/profile-summary-card-output/github/0-profile-details.svg)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trongtinh7727\&layout=compact\&theme=dracula\&hide_border=true)
 
